@@ -1,0 +1,24 @@
+https://www.codementor.io/@sagaragarwal94/building-a-basic-restful-api-in-python-58k02xsiq
+https://www.codementor.io/@dongido/how-to-build-restful-apis-with-python-and-flask-fh5x7zjrx
+https://www.guru99.com/date-time-and-datetime-classes-in-python.html
+
+
+Step: 
+py -m venv venv
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+venv\Scripts\activate
+
+set FLASK_APP=QR_Code_ Parameter.py
+flask run --host=192.168.38.47 --port=5001
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
